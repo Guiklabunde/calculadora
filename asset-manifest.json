@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/calculadora/static/css/main.6a912600.css",
+    "main.js": "/calculadora/static/js/main.3adf42ca.js",
+    "static/js/787.a0d8d0d4.chunk.js": "/calculadora/static/js/787.a0d8d0d4.chunk.js",
+    "static/media/Gluten-Thin.ttf": "/calculadora/static/media/Gluten-Thin.f8c30d08238c7a9d8ae8.ttf",
+    "index.html": "/calculadora/index.html",
+    "main.6a912600.css.map": "/calculadora/static/css/main.6a912600.css.map",
+    "main.3adf42ca.js.map": "/calculadora/static/js/main.3adf42ca.js.map",
+    "787.a0d8d0d4.chunk.js.map": "/calculadora/static/js/787.a0d8d0d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a912600.css",
+    "static/js/main.3adf42ca.js"
+  ]
+}
